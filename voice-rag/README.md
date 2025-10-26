@@ -35,5 +35,6 @@ Upload this file to test the full flow instantly.
 - Python 3.9+
 - OpenAI API key (with access to `whisper-1`, `tts-1`, `gpt-4o-mini`, and **Assistants API**)
 - `pip` and `virtualenv` (recommended)
+- streamlit run app.py
 
 ---
